@@ -632,6 +632,7 @@ Publish the website in the given URL.
 
 
 
+![out 1](https://github.com/sakthivel005/productcompanywebsite/assets/120550359/f3ee6477-afe8-4c63-abf9-74ca5f3ef8df)
 
 
 
